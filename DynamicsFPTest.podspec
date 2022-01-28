@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "DynamicsFPTest"
-  spec.version      = "0.0.7"
+  spec.version      = "0.0.8"
   spec.summary      = "This is Microsoft Dynamics Fraud Protection cocoapods."
   spec.description  = "This is Microsoft Dynamics Fraud Protection cocoapods. You need permission from us to use it in your iOS application."
 
